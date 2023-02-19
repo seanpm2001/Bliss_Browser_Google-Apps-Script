@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️#️⃣️ The Bliss Browser Google Apps Script language support module, allowing Google Apps Script programs to be written in and ran within the browser.
